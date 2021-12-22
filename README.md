@@ -17,4 +17,4 @@ ________________________________________________________________________________
 [?] Input Username: [Insert Keyword/usernames]
 
 ```
-**Warning : This Tools only for use Education "Not to get Ilegal Information " **
+** Warning : This Tools only for use Education "Not to get Ilegal Information" **
