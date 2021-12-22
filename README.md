@@ -1,6 +1,20 @@
-# Indexer
-# V1.2
+# Searcher Usernames
+```
+________________________________________________________________________________________________
+                           _   _    _   ____      _      _   _    
+                          | | | \ || | |  _ \    / \    \ \ / /    
+                          | | | |\ | | | | | \  / / \    \ / /      
+                          | | | | \  | | |_| / / /_\ \   / / \    
+                          |_| |_| |\_| |___ / / /   \ \ /_/ \_\
+                       
+                        Version 1.2  Created by  : hamzah1897
+_________________________________________________________________________________________________
 
-Find Usernames by keyword
+```
+## Usage
 
-![ur](https://user-images.githubusercontent.com/34893261/43992221-49d40f1c-9d52-11e8-8f58-24ae4aa11dd6.png)
+```
+[?] Input Username: [Insert Keyword/usernames]
+
+```
+**Warning : This Tools only for use Education "Not to get Ilegal Information " **
