@@ -1,10 +1,3 @@
-## For Installation
-```
-git clone https://github.com/hamzah1897/Ind4X.git
-cd Ind4X
-chmod +x Ind4X.sh
-```
-
 # Searcher Usernames
 ```
 ________________________________________________________________________________________________
@@ -25,3 +18,11 @@ ________________________________________________________________________________
 
 ```
 ** Warning : This Tools only for use Education "Not to get Ilegal Information" **
+## For Installation
+```
+git clone https://github.com/hamzah1897/Ind4X.git
+cd Ind4X
+chmod +x Ind4X.sh
+```
+
+
