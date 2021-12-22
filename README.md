@@ -18,11 +18,12 @@ ________________________________________________________________________________
 
 ```
 ** Warning : This Tools only for use Education "Not to get Ilegal Information" **
-## For Installation
+## For Installation && Run The Tools
 ```
 git clone https://github.com/hamzah1897/Ind4X.git
 cd Ind4X
 chmod +x Ind4X.sh
+./Ind4X.sh
 ```
 
 
