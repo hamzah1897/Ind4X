@@ -1,11 +1,7 @@
 ## For Installation
 ```
 git clone https://github.com/hamzah1897/Ind4X.git
-```
-```
 cd Ind4X
-```
-```
 chmod +x Ind4X.sh
 ```
 
